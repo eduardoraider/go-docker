@@ -37,4 +37,7 @@ Check the Dockerfile in this repository for an example of how to reduce the size
 
 In this example, we use the Distroless base image to build a Docker image for a Go server application. By following the steps above, you can build and run the Docker image, and then test the endpoint to verify that the application is working correctly.
 
-```
+---
+
+#### by Eduardo Raider
+🛠 🥋 **Software Engineer**
